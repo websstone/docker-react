@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           FrontEnd Docker Changes -v $(pwd):/app
-          Docker-Compose
+          AWS Deployment
         </p>
         <a
           className="App-link"
